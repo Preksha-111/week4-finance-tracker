@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.vscode/
+
+.env
+
+data/backup/*.json
+data/exports/*.csv
+
+.DS_Store
+Thumbs.db
+
+
